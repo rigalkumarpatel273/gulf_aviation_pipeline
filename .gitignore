@@ -1,0 +1,11 @@
+# Ignore large data files
+*.csv
+*.xlsx
+*.json
+*.zip
+test_notebook.ipynb
+
+# Ignore local environment files and checkpoints
+.ipynb_checkpoints/
+__pycache__/
+.env
