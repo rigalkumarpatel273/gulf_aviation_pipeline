@@ -13,11 +13,9 @@ A data engineering pipeline that ingests live flight state vectors over the GCC 
 
 ## 📊 Operational Dashboard
 
-> *(Drag and drop your Power BI screenshot here)*
+> <img width="665" height="377" alt="Gulf_aviation" src="https://github.com/user-attachments/assets/d6a32b84-909c-4f92-8f6c-cf9c0d45986c" />
 
 > ![GCC Flight Telemetry Dashboard](Dashboard/dashboard_screenshot.png)
-
----
 
 ## 📁 Repository Structure
 
