@@ -15,6 +15,7 @@ A data engineering pipeline that ingests live flight state vectors over the GCC 
 
 > *(Drag and drop your Power BI screenshot here)*
 
+> ![GCC Flight Telemetry Dashboard](Dashboard/dashboard_screenshot.png)
 
 ---
 
